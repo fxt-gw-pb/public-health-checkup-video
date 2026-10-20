@@ -1,0 +1,244 @@
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: querying  
+SEG01: success SEG01_v1.mp4 
+17:35:44 DONE SEG01 → SEG01_v1.mp4
+17:35:45   尾帧 → SEG01_尾帧.png
+SEG04: submit_id=4c04232b-11a6-4144-a33a-0d1324af58da status=querying 
+17:36:12 SEG04: 已提交 4c04232b-11a6-4144-a33a-0d1324af58da，提交前积分 2741
+SEG04: querying  
+SEG04: querying  
+SEG04: querying  
+SEG04: querying  
+SEG04: querying  
+SEG04: querying  
+SEG04: querying  
+SEG04: success SEG04_v1.mp4 
+17:41:41 DONE SEG04 → SEG04_v1.mp4
+17:41:46   转写：[[0.0, 2.36, '周会计'], [2.36, 3.64, '三十年了'], [3.64, 4.6000000000000005, '我陪你'], [4.6000000000000005, 6.46, '没算做过一分钱'], [6.46, 7.82, '今天这笔'], [7.82, 9.18, '你算错了'], [9.18, 10.14, '我算错'], [10.14, 11.46, '我可是铁算'], [11.46, 13.5, '那就对账']]
+17:41:46   参考音频 → A-算盘爷.wav（周会计, 你算错了, 我算错）
+SEG05: submit_id=b617ffe1-d838-4fc0-b811-63c06b8d9e36 status=querying 
+17:42:25 SEG05: 已提交 b617ffe1-d838-4fc0-b811-63c06b8d9e36，提交前积分 2531
+SEG05: querying  
+SEG05: querying  
+SEG05: querying  
+SEG05: querying  
+SEG05: querying  
+SEG05: querying  
+SEG05: querying  
+SEG05: querying  
+SEG05: querying  
+SEG05: querying  
+SEG05: success SEG05_v1.mp4 
+17:49:10 DONE SEG05 → SEG05_v1.mp4
+17:49:11   尾帧 → SEG05_尾帧.png
+SEG06: submit_id=d42f069b-2937-4a50-a75d-a2d360194878 status=querying 
+17:50:03 SEG06: 已提交 d42f069b-2937-4a50-a75d-a2d360194878，提交前积分 2321
+SEG06: querying  
+SEG06: querying  
+SEG06: querying  
+SEG06: querying  
+SEG06: querying  
+SEG06: querying  
+SEG06: querying  
+SEG06: querying  
+SEG06: querying  
+SEG06: querying  
+SEG06: querying  
+SEG06: success SEG06_v1.mp4 
+17:57:44 DONE SEG06 → SEG06_v1.mp4
+SEG08: submit_id=088c8e5b-b99a-49c9-a539-181b6b9e3f59 status=querying 
+17:58:27 SEG08: 已提交 088c8e5b-b99a-49c9-a539-181b6b9e3f59，提交前积分 2111
+SEG08: querying  
+SEG08: querying  
+SEG08: querying  
+SEG08: querying  
+SEG08: querying  
+SEG08: querying  
+SEG08: querying  
+SEG08: querying  
+SEG08: querying  
+SEG08: querying  
+SEG08: success SEG08_v1.mp4 
+18:05:09 DONE SEG08 → SEG08_v1.mp4
+18:05:10   尾帧 → SEG08_尾帧.png
+18:05:16   转写：[[0.0, 3.74, '抽烟吗'], [3.74, 6.4, '三十年'], [6.4, 7.2, '一天一包'], [7.2, 8.78, '家里谁有高血压'], [8.78, 10.02, '我爸']]
+18:05:16   参考音频 → A-李医生.wav（抽烟吗, 家里谁有高血压）
+SEG09: submit_id=dd297bbc-e1af-40be-ba02-5f3ccb6b5869 status=querying 
+18:05:53 SEG09: 已提交 dd297bbc-e1af-40be-ba02-5f3ccb6b5869，提交前积分 1901
+SEG09: querying  
+SEG09: querying  
+SEG09: querying  
+SEG09: querying  
+SEG09: querying  
+SEG09: querying  
+SEG09: querying  
+SEG09: querying  
+SEG09: querying  
+SEG09: success SEG09_v1.mp4 
+18:11:53 DONE SEG09 → SEG09_v1.mp4
+SEG07: submit_id=e2a87d9b-e563-4ef5-8f1c-f90a0582b23a status=querying 
+18:12:32 SEG07: 已提交 e2a87d9b-e563-4ef5-8f1c-f90a0582b23a，提交前积分 1691
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: querying  
+SEG07: success SEG07_v1.mp4 
+18:22:53 DONE SEG07 → SEG07_v1.mp4
+SEG13: submit_id=aaf80d6e-56c3-45d3-9bab-ac30742d59d8 status=querying 
+18:23:33 SEG13: 已提交 aaf80d6e-56c3-45d3-9bab-ac30742d59d8，提交前积分 1481
+SEG13: querying  
+SEG13: querying  
+SEG13: querying  
+SEG13: querying  
+SEG13: querying  
+SEG13: querying  
+SEG13: querying  
+SEG13: querying  
+SEG13: querying  
+SEG13: querying  
+SEG13: querying  
+SEG13: success SEG13_v1.mp4 
+18:30:37 DONE SEG13 → SEG13_v1.mp4
+18:30:37   尾帧 → SEG13_尾帧.png
+SEG14: submit_id=5c39683c-aa46-4407-b4ce-9c26c9904510 status=querying 
+18:31:26 SEG14: 已提交 5c39683c-aa46-4407-b4ce-9c26c9904510，提交前积分 1271
+SEG14: querying  
+SEG14: querying  
+SEG14: querying  
+SEG14: querying  
+SEG14: querying  
+SEG14: querying  
+SEG14: querying  
+SEG14: querying  
+SEG14: querying  
+SEG14: success SEG14_v1.mp4 
+18:37:13 DONE SEG14 → SEG14_v1.mp4
+SEG10: submit_id=898f166f-d8d3-4c17-8789-e2fb2bea53b9 status=querying 
+18:37:37 SEG10: 已提交 898f166f-d8d3-4c17-8789-e2fb2bea53b9，提交前积分 1061
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: querying  
+SEG10: success SEG10_v1.mp4 
+18:45:46 DONE SEG10 → SEG10_v1.mp4
+SEG15: submit_id=26fedff7-50e1-44b5-b656-e55790d22ee8 status=querying 
+18:46:26 SEG15: 已提交 26fedff7-50e1-44b5-b656-e55790d22ee8，提交前积分 851
+SEG15: querying  
+SEG15: querying  
+SEG15: querying  
+SEG15: querying  
+SEG15: querying  
+SEG15: querying  
+SEG15: querying  
+SEG15: success SEG15_v1.mp4 
+18:51:10 DONE SEG15 → SEG15_v1.mp4
+SEG17: submit_id=c9661c7f-79d2-4179-a64e-2c98690b459d status=fail upload resource "/Users/fpb/26_autumn/公卫传播视频/素材/07_音频参考/A-老周.wav": upload video/audio: Get "http://vod.bytedanceapi.com/top/v1?Action=ApplyUploadInner&FileType=video&SessionKey=&SpaceName=dreamina&Version=2020-11-19": EOF
+18:51:40 FAIL SEG17 提交失败：upload resource "/Users/fpb/26_autumn/公卫传播视频/素材/07_音频参考/A-老周.wav": upload video/audio: Get "http://vod.bytedanceapi.com/top/v1?Action=ApplyUploadInner&FileType=video&SessionKey=&SpaceName=dreamina&Version=2020-11-19": EOF
+SEG16: submit_id=39d538de-89b9-4554-b9f1-71f0b7a02c4e status=querying 
+18:52:05 SEG16: 已提交 39d538de-89b9-4554-b9f1-71f0b7a02c4e，提交前积分 641
+SEG16: querying  
+SEG16: querying  
+SEG16: querying  
+SEG16: querying  
+SEG16: querying  
+SEG16: querying  
+SEG16: querying  
+SEG16: querying  
+SEG16: querying  
+SEG16: querying  
+SEG16: success SEG16_v1.mp4 
+18:58:31 DONE SEG16 → SEG16_v1.mp4
+SEG18: submit_id=e417e7b1-5fe5-42b1-bf0b-045a5a65942c status=querying 
+18:59:13 SEG18: 已提交 e417e7b1-5fe5-42b1-bf0b-045a5a65942c，提交前积分 431
+SEG18: querying  
+SEG18: querying  
+SEG18: querying  
+SEG18: querying  
+SEG18: querying  
+SEG18: querying  
+SEG18: querying  
+SEG18: querying  
+SEG18: success SEG18_v1.mp4 
+19:04:25 DONE SEG18 → SEG18_v1.mp4
+19:04:28 QUEUE FINISHED，剩余积分 221
+SEG17: submit_id=1f9ee519-3089-4e97-b063-3b5eaefa8316 status=querying 
+19:05:21 SEG17: 已提交 1f9ee519-3089-4e97-b063-3b5eaefa8316，提交前积分 221
+SEG17: querying  
+SEG17: querying  
+SEG17: querying  
+SEG17: querying  
+SEG17: querying  
+SEG17: querying  
+SEG17: querying  
+SEG17: success SEG17_v1.mp4 
+19:10:04 DONE SEG17 → SEG17_v1.mp4
+19:10:08 QUEUE FINISHED，剩余积分 11

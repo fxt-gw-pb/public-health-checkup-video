@@ -1,0 +1,268 @@
+[
+  {
+    "seg": "SEG01",
+    "submit_id": "fba79c08-8b35-4175-82b4-380b227b9ac7",
+    "status": "fail",
+    "reason": "upload resource \"/Users/fpb/26_autumn/公卫传播视频/素材/_上传缓存/K01_v1.jpg\": upload image: apply phase, ApplyImageUpload: do request, Get \"http://imagex.bytedanceapi.com/?Action=ApplyImageUpload&NeedFallback=true&ServiceId=tb4s082cfz&UploadNum=1&Version=2018-08-01\": context deadline exceeded",
+    "credit_before": 741,
+    "audios": [
+      "07_音频参考/A-老周.wav"
+    ],
+    "time": "2026-10-20 16:39",
+    "post_done": true
+  },
+  {
+    "seg": "SEG01",
+    "submit_id": "cda57d09-be4c-4dd9-976e-1633044eac07",
+    "status": "fail",
+    "reason": "用户在网页取消（排队约 8 小时），积分已返还",
+    "credit_before": 741,
+    "audios": [
+      "07_音频参考/A-老周.wav"
+    ],
+    "time": "2026-10-20 16:40",
+    "post_done": true
+  },
+  {
+    "seg": "SEG04",
+    "submit_id": "6068a451-6528-4fda-99df-771eb22cdb5d",
+    "status": "fail",
+    "reason": "api error: ret=1310, message=ExceedConcurrencyLimit, logid=20261020164231172020070204503ABEB",
+    "credit_before": 621,
+    "audios": [
+      "07_音频参考/A-老周.wav"
+    ],
+    "time": "2026-10-20 16:43",
+    "post_done": true
+  },
+  {
+    "seg": "SEG04",
+    "submit_id": "5fb7258b-ee04-43f0-a697-f8f53f4635ff",
+    "status": "fail",
+    "reason": "api error: ret=1310, message=ExceedConcurrencyLimit, logid=202610201658261720200702047303159",
+    "credit_before": 2831,
+    "audios": [
+      "07_音频参考/A-老周.wav"
+    ],
+    "time": "2026-10-20 16:58",
+    "post_done": true
+  },
+  {
+    "seg": "SEG01",
+    "submit_id": "1d7f688e-df23-441b-bb66-7d14b4c6b2bd",
+    "status": "success",
+    "reason": "",
+    "credit_before": 2951,
+    "audios": [
+      "07_音频参考/A-老周.wav"
+    ],
+    "time": "2026-10-20 17:28",
+    "file": "SEG01_v1.mp4",
+    "credit_after": 2741,
+    "post_done": true
+  },
+  {
+    "seg": "SEG04",
+    "submit_id": "4c04232b-11a6-4144-a33a-0d1324af58da",
+    "status": "success",
+    "reason": "",
+    "credit_before": 2741,
+    "audios": [
+      "07_音频参考/A-老周.wav"
+    ],
+    "time": "2026-10-20 17:36",
+    "file": "SEG04_v1.mp4",
+    "credit_after": 2531,
+    "post_done": true
+  },
+  {
+    "seg": "SEG05",
+    "submit_id": "b617ffe1-d838-4fc0-b811-63c06b8d9e36",
+    "status": "success",
+    "reason": "",
+    "credit_before": 2531,
+    "audios": [
+      "07_音频参考/A-老周.wav",
+      "07_音频参考/A-算盘爷.wav"
+    ],
+    "time": "2026-10-20 17:42",
+    "file": "SEG05_v1.mp4",
+    "credit_after": 2321,
+    "post_done": true
+  },
+  {
+    "seg": "SEG06",
+    "submit_id": "d42f069b-2937-4a50-a75d-a2d360194878",
+    "status": "success",
+    "reason": "",
+    "credit_before": 2321,
+    "audios": [
+      "07_音频参考/A-老周.wav",
+      "07_音频参考/A-算盘爷.wav"
+    ],
+    "time": "2026-10-20 17:50",
+    "file": "SEG06_v1.mp4",
+    "credit_after": 2111,
+    "post_done": true
+  },
+  {
+    "seg": "SEG08",
+    "submit_id": "088c8e5b-b99a-49c9-a539-181b6b9e3f59",
+    "status": "success",
+    "reason": "",
+    "credit_before": 2111,
+    "audios": [
+      "07_音频参考/A-老周.wav"
+    ],
+    "time": "2026-10-20 17:58",
+    "file": "SEG08_v1.mp4",
+    "credit_after": 1901,
+    "post_done": true
+  },
+  {
+    "seg": "SEG09",
+    "submit_id": "dd297bbc-e1af-40be-ba02-5f3ccb6b5869",
+    "status": "success",
+    "reason": "",
+    "credit_before": 1901,
+    "audios": [
+      "07_音频参考/A-李医生.wav",
+      "07_音频参考/A-算盘爷.wav"
+    ],
+    "time": "2026-10-20 18:05",
+    "file": "SEG09_v1.mp4",
+    "credit_after": 1691,
+    "post_done": true
+  },
+  {
+    "seg": "SEG07",
+    "submit_id": "e2a87d9b-e563-4ef5-8f1c-f90a0582b23a",
+    "status": "success",
+    "reason": "",
+    "credit_before": 1691,
+    "audios": [
+      "07_音频参考/A-老周.wav",
+      "07_音频参考/A-算盘爷.wav"
+    ],
+    "time": "2026-10-20 18:12",
+    "file": "SEG07_v1.mp4",
+    "credit_after": 1481,
+    "post_done": true
+  },
+  {
+    "seg": "SEG13",
+    "submit_id": "aaf80d6e-56c3-45d3-9bab-ac30742d59d8",
+    "status": "success",
+    "reason": "",
+    "credit_before": 1481,
+    "audios": [
+      "07_音频参考/A-老周.wav",
+      "07_音频参考/A-老刘.wav"
+    ],
+    "time": "2026-10-20 18:23",
+    "file": "SEG13_v1.mp4",
+    "credit_after": 1271,
+    "post_done": true
+  },
+  {
+    "seg": "SEG14",
+    "submit_id": "5c39683c-aa46-4407-b4ce-9c26c9904510",
+    "status": "success",
+    "reason": "",
+    "credit_before": 1271,
+    "audios": [
+      "07_音频参考/A-老刘.wav"
+    ],
+    "time": "2026-10-20 18:31",
+    "file": "SEG14_v1.mp4",
+    "credit_after": 1061,
+    "post_done": true
+  },
+  {
+    "seg": "SEG10",
+    "submit_id": "898f166f-d8d3-4c17-8789-e2fb2bea53b9",
+    "status": "success",
+    "reason": "",
+    "credit_before": 1061,
+    "audios": [
+      "07_音频参考/A-老周.wav"
+    ],
+    "time": "2026-10-20 18:37",
+    "file": "SEG10_v1.mp4",
+    "credit_after": 851,
+    "post_done": true
+  },
+  {
+    "seg": "SEG15",
+    "submit_id": "26fedff7-50e1-44b5-b656-e55790d22ee8",
+    "status": "success",
+    "reason": "",
+    "credit_before": 851,
+    "audios": [
+      "07_音频参考/A-老周.wav",
+      "07_音频参考/A-算盘爷.wav"
+    ],
+    "time": "2026-10-20 18:46",
+    "file": "SEG15_v1.mp4",
+    "credit_after": 641,
+    "post_done": true
+  },
+  {
+    "seg": "SEG17",
+    "submit_id": "c9661c7f-79d2-4179-a64e-2c98690b459d",
+    "status": "fail",
+    "reason": "upload resource \"/Users/fpb/26_autumn/公卫传播视频/素材/07_音频参考/A-老周.wav\": upload video/audio: Get \"http://vod.bytedanceapi.com/top/v1?Action=ApplyUploadInner&FileType=video&SessionKey=&SpaceName=dreamina&Version=2020-11-19\": EOF",
+    "credit_before": 641,
+    "audios": [
+      "07_音频参考/A-老周.wav",
+      "07_音频参考/A-算盘爷.wav"
+    ],
+    "time": "2026-10-20 18:51",
+    "post_done": true
+  },
+  {
+    "seg": "SEG16",
+    "submit_id": "39d538de-89b9-4554-b9f1-71f0b7a02c4e",
+    "status": "success",
+    "reason": "",
+    "credit_before": 641,
+    "audios": [
+      "07_音频参考/A-李医生.wav",
+      "07_音频参考/A-老周.wav",
+      "07_音频参考/A-算盘爷_短.wav"
+    ],
+    "time": "2026-10-20 18:52",
+    "file": "SEG16_v1.mp4",
+    "credit_after": 431,
+    "post_done": true
+  },
+  {
+    "seg": "SEG18",
+    "submit_id": "e417e7b1-5fe5-42b1-bf0b-045a5a65942c",
+    "status": "success",
+    "reason": "",
+    "credit_before": 431,
+    "audios": [
+      "07_音频参考/A-老周.wav"
+    ],
+    "time": "2026-10-20 18:59",
+    "file": "SEG18_v1.mp4",
+    "credit_after": 221,
+    "post_done": true
+  },
+  {
+    "seg": "SEG17",
+    "submit_id": "1f9ee519-3089-4e97-b063-3b5eaefa8316",
+    "status": "success",
+    "reason": "",
+    "credit_before": 221,
+    "audios": [
+      "07_音频参考/A-老周.wav",
+      "07_音频参考/A-算盘爷.wav"
+    ],
+    "time": "2026-10-20 19:05",
+    "file": "SEG17_v1.mp4",
+    "credit_after": 11,
+    "post_done": true
+  }
+]
